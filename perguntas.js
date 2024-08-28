@@ -1,16 +1,16 @@
 export const perguntas = [
     {
-        enunciado: "1. Como você prefere passar seu tempo livre?",
+        enunciado: "Como você prefere passar seu tempo livre?",
         alternativas: [
             {
-                texto: "A) Lendo um livro",
+                texto: "Lendo um livro",
                 afirmacao: [
-                    " O Pensador. Você aprecia momentos de introspecção e adora mergulhar em novos mundos através da leitura. Sua natureza reflexiva e curiosa faz de você uma pessoa que valoriza o conhecimento e a tranquilidade."
+                    "O Pensador. Você aprecia momentos de introspecção e adora mergulhar em novos mundos através da leitura. Sua natureza reflexiva e curiosa faz de você uma pessoa que valoriza o conhecimento e a tranquilidade."
                 ],
                 proxima: 1,
             },
             {
-                texto: "B) Socializando com amigos",
+                texto: "Socializando com amigos",
                 afirmacao: [
                     "O Extrovertido. Você se sente energizado quando está rodeado por outras pessoas. Adora compartilhar experiências, histórias e risadas, sendo alguém que valoriza as conexões e as amizades."
                 ],
@@ -19,12 +19,12 @@ export const perguntas = [
         ]
     },
     {
-        enunciado: "2. Qual estilo de viagem você prefere?",
+        enunciado: "Qual estilo de viagem você prefere?",
         alternativas: [
             {
                 texto: "Aventura na natureza",
                 afirmacao: [
-                    " O Explorador. Você adora o desconhecido e sente-se revigorado ao explorar o ar livre. Para você, as melhores experiências vêm da conexão com a natureza e da superação de desafios.",
+                    "O Explorador. Você adora o desconhecido e sente-se revigorado ao explorar o ar livre. Para você, as melhores experiências vêm da conexão com a natureza e da superação de desafios.",
     
                 ],
                 proxima: 3,
