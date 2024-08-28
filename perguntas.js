@@ -1,113 +1,113 @@
 export const perguntas = [
     {
-        enunciado: "1. Qual é a sua refeição favorita do dia?",
+        enunciado: "1. Como você prefere passar seu tempo livre?",
         alternativas: [
             {
-                texto: "A) Café da manhã",
+                texto: "A) Lendo um livro",
                 afirmacao: [
-                    " O Tradicionalista. Você é alguém que valoriza a rotina e gosta de conforto. Na culinária, isso se reflete em sua preferência por refeições familiares e sabores clássicos. Você gosta de manter as coisas simples e tende a ser uma pessoa confiável e calma."
+                    " O Pensador. Você aprecia momentos de introspecção e adora mergulhar em novos mundos através da leitura. Sua natureza reflexiva e curiosa faz de você uma pessoa que valoriza o conhecimento e a tranquilidade."
                 ],
                 proxima: 1,
             },
             {
-                texto: "B) Almoço",
+                texto: "B) Socializando com amigos",
                 afirmacao: [
-                    "O Aventureiro. Você adora experimentar novos sabores e é conhecido por ser curioso e ousado na vida e na cozinha. Seja um prato novo ou uma combinação inusitada de temperos, você não tem medo de se arriscar. Sua personalidade é extrovertida e aberta a novidades."
+                    "O Extrovertido. Você se sente energizado quando está rodeado por outras pessoas. Adora compartilhar experiências, histórias e risadas, sendo alguém que valoriza as conexões e as amizades."
                 ],
                 proxima: 2,
             },
         ]
     },
     {
-        enunciado: "2. Qual tipo de cozinha você prefere?",
+        enunciado: "2. Qual estilo de viagem você prefere?",
         alternativas: [
             {
-                texto: "Brasileira (feijoada, churrasco)",
+                texto: "Aventura na natureza",
                 afirmacao: [
-                    "O Tradicionalista. Você é alguém que valoriza a rotina e gosta de conforto. Na culinária, isso se reflete em sua preferência por refeições familiares e sabores clássicos. Você gosta de manter as coisas simples e tende a ser uma pessoa confiável e calma.",
+                    " O Explorador. Você adora o desconhecido e sente-se revigorado ao explorar o ar livre. Para você, as melhores experiências vêm da conexão com a natureza e da superação de desafios.",
     
                 ],
                 proxima: 3,
             },
             {
-                texto: " Italiana (massas, pizzas)",
+                texto: "Cidades históricas",
                 afirmacao: [
-                    "O Equilibrado. Você busca equilíbrio em tudo o que faz, e isso se reflete no seu gosto pela culinária. Gosta de refeições bem preparadas, com sabores harmônicos e de qualidade. Na vida, você é uma pessoa que busca estabilidade e harmonia, tanto no trabalho quanto nas relações."
+                    "O Curioso Cultural. Você é fascinado por história, arte e arquitetura. Prefere viagens que ofereçam riqueza cultural e um mergulho profundo nas tradições e histórias locais."
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: "Quando você vai a um restaurante, você:",
+        enunciado: "Qual é o seu ambiente de trabalho ideal?",
         alternativas: [
             {
-                texto: "Sempre pede o mesmo prato",
+                texto: "Trabalhando sozinho em silêncio",
                 afirmacao: [
-                    "O Tradicionalista. Você é alguém que valoriza a rotina e gosta de conforto. Na culinária, isso se reflete em sua preferência por refeições familiares e sabores clássicos. Você gosta de manter as coisas simples e tende a ser uma pessoa confiável e calma."
+                    "O Independente. Você valoriza a concentração e a autonomia no trabalho. Prefere ambientes tranquilos onde pode se dedicar totalmente às suas tarefas, sem interrupções."
                 ],
                 proxima: 3,
             },
             {
-                texto: "Escolhe algo que viu nas redes sociais",
+                texto: "Colaborando em equipe",
                 afirmacao: [
-                    " O Equilibrado. Você busca equilíbrio em tudo o que faz, e isso se reflete no seu gosto pela culinária. Gosta de refeições bem preparadas, com sabores harmônicos e de qualidade. Na vida, você é uma pessoa que busca estabilidade e harmonia, tanto no trabalho quanto nas relações."
+                    "O Colaborativo. Você acredita que as melhores ideias surgem da troca de opiniões. Prefere trabalhar em equipe, onde pode compartilhar e receber feedback constante."
                 ],
                 proxima: 4,
             },
         ]
     },
     {
-        enunciado: " Qual é sua sobremesa favorita?",
+        enunciado: "Como você lida com desafios?",
         alternativas: [
             {
-                texto: " Sorvete",
+                texto: "Planejando cuidadosamente",
                 afirmacao: [
-                    "O Tradicionalista. Você é alguém que valoriza a rotina e gosta de conforto. Na culinária, isso se reflete em sua preferência por refeições familiares e sabores clássicos. Você gosta de manter as coisas simples e tende a ser uma pessoa confiável e calma."
+                    "O Estrategista. Antes de agir, você prefere analisar todas as possibilidades. Sua abordagem meticulosa garante que você esteja preparado para qualquer eventualidade."
                 ],
                 proxima: 5,
             },
             {
-                texto: "Pudim",
+                texto: "Agindo por impulso",
                 afirmacao: [
-                    " O Intenso. Seus gostos são fortes e definidos, tanto na culinária quanto na vida. Você gosta de viver tudo com intensidade e paixão. Temperos marcantes e pratos ousados chamam sua atenção, assim como situações desafiadoras e emoções profundas."
+                    "O Intuitivo. Você confia na sua intuição e prefere agir rapidamente diante de desafios. Acredita que as melhores soluções muitas vezes vêm de decisões espontâneas."
                 ],
                 proxima: 6,
             },
         ]
     },
     {
-        enunciado: "Qual tipo de cozinha você prefere?",
+        enunciado: "Qual tipo de filme você prefere?",
         alternativas: [
             {
-                texto: "Japonesa (sushi, sashimi)",
+                texto: "Drama",
                 afirmacao: [
-                    "O Aventureiro. Você adora experimentar novos sabores e é conhecido por ser curioso e ousado na vida e na cozinha. Seja um prato novo ou uma combinação inusitada de temperos, você não tem medo de se arriscar. Sua personalidade é extrovertida e aberta a novidades."
+                    "O Sensível. Você aprecia histórias profundas que exploram a complexidade das emoções humanas. Para você, filmes são uma forma de se conectar com sentimentos intensos e narrativas significativas."
                 ],
                 proxima: 7,
             },
             {
-                texto: "Mexicana (tacos, nachos)",
+                texto: "Comédia",
                 afirmacao: [
-                    "O Intenso. Seus gostos são fortes e definidos, tanto na culinária quanto na vida. Você gosta de viver tudo com intensidade e paixão. Temperos marcantes e pratos ousados chamam sua atenção, assim como situações desafiadoras e emoções profundas.O que você achou desse formato? Quer ajustar algo no quiz?"
+                    "O Alegre. Você prefere filmes leves e divertidos, que trazem alegria e riso. Acredita que o humor é uma das melhores formas de lidar com a vida e seus desafios."
                 ],
                 proxima: 8,
             },
         ]
     },
     {
-        enunciado: "Como você gosta de temperar a comida?",
+        enunciado: "Como você prefere começar o dia?",
         alternativas: [
             {
-                texto: " Leve, com poucas ervas e sal",
+                texto: "Com uma rotina matinal estabelecida",
                 afirmacao: [
-                    "O Aventureiro. Você adora experimentar novos sabores e é conhecido por ser curioso e ousado na vida e na cozinha. Seja um prato novo ou uma combinação inusitada de temperos, você não tem medo de se arriscar. Sua personalidade é extrovertida e aberta a novidades."
+                    "O Organizado. Você gosta de começar o dia com estrutura e previsibilidade. Para você, uma manhã bem planejada é o segredo para um dia produtivo."
                 ],
             },
             {
-                texto: "Bem temperada, com bastante especiarias",
+                texto: "De forma espontânea e sem horários fixos",
                 afirmacao: [
-                    "O Aventureiro. Você adora experimentar novos sabores e é conhecido por ser curioso e ousado na vida e na cozinha. Seja um prato novo ou uma combinação inusitada de temperos, você não tem medo de se arriscar. Sua personalidade é extrovertida e aberta a novidades."
+                    "O Espontâneo. Você prefere a liberdade de seguir seu próprio ritmo. Acredita que cada dia deve ser vivido de acordo com o que o momento pede, sem muita rigidez."
                 ],
             },
         ]
